@@ -1,0 +1,53 @@
+body{
+	background: url("Food Pictures/Cheeseburger.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;	
+	
+}
+
+#main-logo{
+	height: 50px;
+	border-radius:50%;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.nav-item{
+	padding-left: 10px;
+	padding-right: 10px;
+	font-family: helvetica;
+}
+
+.Main_Front_Text{
+	text-align: center;
+	padding-top: 15%;
+	padding-left:3%;
+	color:white;
+}
+
+.Sub_Front_Text{
+	text-align: center;
+	margin-top: 10%;
+	margin-left: 3%;
+	color:white;
+}
+
+#Maintext{
+	padding-bottom: 5px;
+	font-size: 72px;
+	font-family: Garamond;
+	font-weight: 700;
+	
+}
+
+#Mainsubtext{
+	padding-bottom: 30px;
+	font-size: 20px;
+}
+
+#SubMainText{
+	font-family: Playfair Display;
+	font-size: 20px;
+}
